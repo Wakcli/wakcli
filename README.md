@@ -10,7 +10,6 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝
 ```
 
-### Full-Stack Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-WakCLI.dev-00ffd5?style=for-the-badge&logo=firefox&logoColor=white)](https://WakCLI.dev)
 [![Endxel](https://img.shields.io/badge/Endxel-endxel.com-7b2fff?style=for-the-badge&logo=rocket&logoColor=white)](https://endxel.com)
