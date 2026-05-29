@@ -10,7 +10,7 @@
  ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚══════╝╚═╝
 ```
 
-### Full-Stack Developer · Game Dev · CEO
+### Full-Stack Developer
 **Computer Engineering Student — Ireland 🇮🇪**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-WakCLI.dev-00ffd5?style=for-the-badge&logo=firefox&logoColor=white)](https://WakCLI.dev)
@@ -21,14 +21,14 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-Hey — I'm **WakCLI**, a full-stack developer and computer engineering student based in Ireland.  
-I'm the CEO of **Endxel**, Head Developer at **Ashgate Studio**, and I'm building both into something real.
+Hello im WakCLI and im a Conputer Engineering Student in 🇮🇪* .  
+I'm the CEO of **Endxel**, Head Developer at **Ashgate Studio**, im hopeing to bring both into my adult life and make them my job!
 
-I write code across the stack — from low-level C++ to web apps to game systems — and I'm always working on something. My goal is to grow Endxel into a fully launched company while chasing my passion for game development at Ashgate Studio.
+I write code for C++ to web apps to game systems. My goal is to grow Endxel into a fully launched company while chasing my passion for game development at Ashgate Studio.
 
-> *"Comms open. Always building."*
+> *"Comms open. "*
 
 ---
 
@@ -43,14 +43,7 @@ I write code across the stack — from low-level C++ to web apps to game systems
 
 ---
 
-## 🏢 What I'm Working On
 
-### 🚀 [Endxel](https://endxel.com) — *CEO & Founder*
-Building Endxel from the ground up. We offer hosting and more at [hosting.endxel.com](https://hosting.endxel.com).  
-The mission: turn this into a fully launched company as I grow into my career.
-
-### 🎮 [Ashgate Studio](https://ashgatesstudio.com) — *Head Developer*
-Pursuing game development professionally. Leading development at Ashgate Studio — where the dream becomes code.
 
 ---
 
@@ -74,10 +67,5 @@ Pursuing game development professionally. Leading development at Ashgate Studio 
 | 🏢 Company | [endxel.com](https://endxel.com) |
 | 🎮 Studio | [ashgatesstudio.com](https://ashgatesstudio.com) |
 
-**Comms open** — reach me through my portfolio or any of the links above.
+**Comms open** — reach me through my discord or email
 
----
-
-<div align="center">
-  <sub>Built with ☕ · Deployed with 🚀 · Fuelled by game dev dreams 🎮</sub>
-</div>
