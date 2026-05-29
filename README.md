@@ -34,9 +34,9 @@ I write code for C++ to web apps to game systems. My goal is to grow Endxel into
 
 | Language | Experience |
 |---|---|
-| ☕ Java | 5 Years |
-| 🌐 Web Development | 4 Years |
-| ⚙️ C++ | 3 Years |
+|  Java | 5 Years |
+|  Web Development | 4 Years |
+|  C++ | 3 Years |
 | 🎮 C# | 3 Years |
 
 ---
