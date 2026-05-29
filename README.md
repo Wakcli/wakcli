@@ -51,9 +51,9 @@ I write code for C++ to web apps to game systems. My goal is to grow Endxel into
 
 <div align="center">
 
-![WakCLI's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WakCLI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=7b2fff&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WakCLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&text_color=ffffff)
+![WakCLI's GitHub Stats](https://github-readme-stats-mzali134s-projects.vercel.app/api?username=WakCLI&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&icon_color=7b2fff&text_color=ffffff)
+ 
+![Top Languages](https://github-readme-stats-mzali134s-projects.vercel.app/api/top-langs/?username=WakCLI&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffd5&text_color=ffffff)
 
 </div>
 
